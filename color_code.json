@@ -1,0 +1,59 @@
+{
+    "colors": [
+        {"name": "red", "value": "RGB for red is [255, 0, 0];"},
+        {"name": "green", "value": "RGB for green is [0, 255, 0];"},
+        {"name": "blue", "value": "RGB for blue is [0, 0, 255];"},
+        {"name": "yellow", "value": "RGB for yellow is [255, 255, 0];"},
+        {"name": "cyan", "value": "RGB for cyan is [0, 255, 255];"},
+        {"name": "purple", "value": "RGB for purple is [128, 0, 128];"},
+        {"name": "black", "value": "RGB for black is [0, 0, 0];"},
+        {"name": "white", "value": "RGB for white is [255, 255, 255];"},
+        {"name": "gray", "value": "RGB for gray is [128, 128, 128];"},
+        {"name": "magenta", "value": "RGB for magenta is [255, 0, 255];"},
+        {"name": "lime", "value": "RGB for lime is [0, 255, 0];"},
+        {"name": "teal", "value": "RGB for teal is [0, 128, 128];"},
+        {"name": "maroon", "value": "RGB for maroon is [128, 0, 0];"},
+        {"name": "navy", "value": "RGB for navy is [0, 0, 128];"},
+        {"name": "olive", "value": "RGB for olive is [128, 128, 0];"},
+        {"name": "silver", "value": "RGB for silver is [192, 192, 192];"},
+        {"name": "gold", "value": "RGB for gold is [255, 215, 0];"},
+        {"name": "orange", "value": "RGB for orange is [255, 165, 0];"},
+        {"name": "pink", "value": "RGB for pink is [255, 192, 203];"},
+        {"name": "brown", "value": "RGB for brown is [165, 42, 42];"},
+        {"name": "coral", "value": "RGB for coral is [255, 127, 80];"},
+        {"name": "indigo", "value": "RGB for indigo is [75, 0, 130];"},
+        {"name": "violet", "value": "RGB for violet is [238, 130, 238];"},
+        {"name": "turquoise", "value": "RGB for turquoise is [64, 224, 208];"},
+        {"name": "tan", "value": "RGB for tan is [210, 180, 140];"}
+    ],
+    "primary":[
+        {"name": "red", "value": "RGB for red is [255, 0, 0];"},
+        {"name": "green", "value": "RGB for green is [0, 255, 0];"},
+        {"name": "blue", "value": "RGB for blue is [0, 0, 255];"},
+        {"name": "yellow", "value": "RGB for yellow is [255, 255, 0];"},
+        {"name": "purple", "value": "RGB for purple is [128, 0, 128];"},      
+        {"name": "orange", "value": "RGB for orange is [255, 165, 0];"},
+        {"name": "pink", "value": "RGB for pink is [255, 192, 203];"},
+        {"name": "brown", "value": "RGB for brown is [165, 42, 42];"}        
+    ],
+    "hexadecimal":[
+        {"name": "red", "value": "Hexadecimal for red is: #FF0000;"},
+        {"name": "green", "value": "Hexadecimal for green is: #00FF00;"},
+        {"name": "blue", "value": "Hexadecimal for blue is: #0000FF;"},
+        {"name": "yellow", "value": "Hexadecimal for yellow is: #FFFF00;"},
+        {"name": "purple", "value": "Hexadecimal for purple is: #800080;"},
+        {"name": "orange", "value": "Hexadecimal for orange is: #FFA500;"},
+        {"name": "pink", "value": "Hexadecimal for pink is: #FFC0CB;"},
+        {"name": "brown", "value": "Hexadecimal for brown is: #A52A2A;"}
+    ],
+    "python_color":[
+        {"name": "red", "value": "RED=(255, 0, 0);"},
+        {"name": "green", "value": "GREEN=(0, 255, 0);"},
+        {"name": "blue", "value": "BLUE=(0, 0, 255);"},
+        {"name": "yellow", "value": "YELLOW=(255, 255, 0);"},
+        {"name": "purple", "value": "PURPLE=(255, 0, 255);"},
+        {"name": "gray", "value": "GRAY=(136,136,136);"},
+        {"name": "cyan", "value": "CYAN=(0, 255, 255);"}
+        
+    ]
+}
